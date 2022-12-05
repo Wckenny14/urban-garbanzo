@@ -1,1 +1,1 @@
-- Learn Git
+- Learn to push to github
